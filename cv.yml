@@ -1,5 +1,5 @@
 <yml_catalog date="2019-06-27 20:09">
-<param name="alina_leskova_cv">
+alina_leskova_cv:
   18-200 age: 21
   <param name="first_name">Alina (Alya)</param>
   <param name="last_name">Leskova</param>
@@ -21,18 +21,4 @@
     <year> the third </year>
   </education>
   <param name="laptop">yes, home => Windows, work => Mac</param>
-  <pets>
-    <dog> Tobi </dog>
-  </pets>
-  <sense_of_humor> Surely </sense_of_humor>
-  <funny_facts>
-    <travel_experience> Work and Travel USA for 3 month </travel_experience>
-    <work_experience> Sales manager, DB manager </work_experience>
-    <education_achivment> 2 times 3rd place in rebuclic competition in math :) </education_achivment>
-    <family_status> Nobody wanna to marry </family_status>
-    <sins> Laziness level 997 </sins>
-  </funny_facts>
-  <any_desires> Wanna grow fact and make incredible things </any_desires>
-  <bue_bue> Waiting for your reply </bue_bue>
-  </param>
 </yml_catalog>
