@@ -1,4 +1,3 @@
-<yml_catalog date="2019-06-27 21:20">
   <param name="first_name">Alina (Alya)</param>
   <param name="last_name">Leskova</param>
   <param name="status">Princess</param>
@@ -19,4 +18,3 @@
     <year> the third </year>
   </education>
   <param name="laptop">yes, home => Windows, work => Mac</param>
-</yml_catalog>
