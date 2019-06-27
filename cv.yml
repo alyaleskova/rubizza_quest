@@ -17,11 +17,6 @@
     <param name="company">Globant</param>
   </param>
   <param name="laptop">yes, home => Windows, work => Mac</param>
-  <education>
-    <university>BSUIR</university>
-    <speciality> E-business economics </speciality>
-    <year> the third </year>
-  </education>
   <pets>
     <dog> Tobi </dog>
   </pets>
