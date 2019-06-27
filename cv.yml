@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2019-06-27 20:09">
 <alina_leskova_cv>
+  <param name="full_name">Alina Leskova</param>
   <full_name>Alina Leskova</full_name>
   <age>21</age>
   <goal> I wanna improve my skills and become a real programmer. For 3 month I couldn't find a job, but I did it. And now I wanna grow. Wanna be fucking awesome. Wanna use all Ruby advantages and design fast ruby code. I'm not just wanna - I am doing. See u) </goal>
