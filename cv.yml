@@ -1,8 +1,8 @@
 <yml_catalog date="2019-06-27 20:09">
--alina_leskova_cv:
-    <param name="first_name">Alina (Alya)</param>
-    <param name="last_name">Leskova</param>
+<param name="alina_leskova_cv">
   18-200 age: 21
+  <param name="first_name">Alina (Alya)</param>
+  <param name="last_name">Leskova</param>
   <param name="status">Princess</param>
   <param name="height">175</param>
   <param name="weight">53-55</param>
@@ -34,4 +34,5 @@
   </funny_facts>
   <any_desires> Wanna grow fact and make incredible things </any_desires>
   <bue_bue> Waiting for your reply </bue_bue>
+  </param>
 </yml_catalog>
