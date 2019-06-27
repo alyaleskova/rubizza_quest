@@ -1,6 +1,6 @@
 <yml_catalog date="2019-06-27 20:09">
 alina_leskova_cv:
-  18-200 age: 21
+  age: 21
   <param name="first_name">Alina (Alya)</param>
   <param name="last_name">Leskova</param>
   <param name="status">Princess</param>
