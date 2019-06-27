@@ -6,7 +6,7 @@ alina_leskova_cv:
   height: 175
   weight: 53-55
   full_name: Alina Leskova (Korovushka)
-  goal: I wanna improve my skills and become a real programmer. For 3 month I couldn't find a job, but I did it. And now I wanna grow. Wanna be fucking awesome. Wanna use all Ruby advantages and design fast ruby code. I'm not just wanna - I am doing. See u)
+  <param name="goal">I wanna improve my skills and become a real programmer. For 3 month I couldn't find a job, but I did it. And now I wanna grow. Wanna be fucking awesome. Wanna use all Ruby advantages and design fast ruby code. I'm not just wanna - I am doing. See u)</param>
   have_a_job: Globant, Junior Ruby developer 
   programming_languages: Ruby, Java, C, C++ (little bit), HTML, Solidity (just tried)
   english: Anvanced
