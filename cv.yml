@@ -1,11 +1,12 @@
-:alina_leskova_cv =>
+<?xml version="1.0" encoding="UTF-8"?>
+<alina_leskova_cv>
   first_name: Alina (Alya)
   last_name: Leskova
   status: Princess
   age: 21
   height: 175
   weight: 53-55
-  :full_name => Alina Leskova (Korovushka)
+  <full_name> Alina Leskova (Korovushka) </full_name>
   goal: I wanna improve my skills and become a real programmer. For 3 month I couldn't find a job, but I did it. And now I wanna grow. Wanna be fucking awesome. Wanna use all Ruby advantages and design fast ruby code. I'm not just wanna - I am doing. See u)
   have_a_job: Globant, Junior Ruby developer 
   programming_languages: Ruby, Java, C, C++ (little bit), HTML, Solidity (just tried)
@@ -30,3 +31,4 @@
     sins: Laziness level 997
   any_desires: Wanna grow fact and make incredible things
   bue_bue: Waiting for your reply
+</alina_leskova_cv>
