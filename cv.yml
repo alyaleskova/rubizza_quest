@@ -4,7 +4,7 @@
   <first_name>Alina (Alya) </first_name>
   <last_name> Leskova </last_name>
   <status> Princess </status>
-  <age> 21 </age>
+  <age>21</age>
   <height> 175 </height>
   <weight> 53-55 </weight>
   <full_name> Alina Leskova (Korovushka) </full_name>
@@ -12,17 +12,14 @@
   <have_a_job> Globant, Junior Ruby developer </have_a_job>
   <programming_languages> Ruby, Java, C, C++ (little bit), HTML, Solidity (just tried) </programming_languages>
   <english> Anvanced </english>
-  <laptop>
-    <home> Windows </home>
-    <work> Mac </work>
-  </laptop>
+  <laptop> yes, home => Windows, work => Mac </laptop>
   <phone_number> +375291557039 (Velcom) </phone_number>
   <education>
     <university> BSUIR </university>
     <speciality> E-business economics </speciality>
     <year> the third </year>
   </education>
-  <hours_per_day> 25 </hours_per_day>
+  <hours_per_day> 24 </hours_per_day>
   <pets>
     <dog> Tobi </dog>
   </pets>
@@ -37,3 +34,4 @@
   <any_desires> Wanna grow fact and make incredible things </any_desires>
   <bue_bue> Waiting for your reply </bue_bue>
 </alina_leskova_cv>
+</yml_catalog>
