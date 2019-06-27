@@ -2,7 +2,7 @@
 -alina_leskova_cv:
     <param name="first_name">Alina (Alya)</param>
     <param name="last_name">Leskova</param>
-  [ 1234 ] age: 21
+  18-200 age: 21
   <param name="status">Princess</param>
   <param name="height">175</param>
   <param name="weight">53-55</param>
