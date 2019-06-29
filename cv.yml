@@ -1,7 +1,2 @@
-<alina_leskova>
-  <full_name>
-    Alina Leskova
-  </full_name>
-  <param name="age">21</param>
-  <param name="laptop">yes</param>
-</alina_leskova>
+ <param name="age">21</param>
+ <param name="laptop">yes</param>
