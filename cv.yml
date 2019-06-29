@@ -1,5 +1,5 @@
 <alina_leskova>
-  <param name="full_name">Alina Leskova</param>
+  <param :full_name>Alina Leskova</param>
   <param name="age">21</param>
   <param name="laptop">yes</param>
 </alina_leskova>
