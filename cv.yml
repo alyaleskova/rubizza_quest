@@ -1,0 +1,34 @@
+alina_leskova_cv:
+  first_name: Alina (Alya)
+  last_name: Leskova
+  status: Princess
+  age: 21
+  height: 175
+  weight: 53-55
+  full_name: Alina Leskova (Korovushka)
+  <param name="goal"> 
+    I wanna improve my skills and become a real programmer. For 3 month I couldn't find a job, but I did it. And now I wanna grow. Wanna be fucking awesome. Wanna use all Ruby advantages and design fast ruby code. I'm not just wanna - I am doing. See u)
+  </param>  
+  have_a_job: Globant, Junior Ruby developer 
+  programming_languages: Ruby, Java, C, C++ (little bit), HTML, Solidity (just tried)
+  english: Anvanced
+  laptop:
+    home: Windows
+    work: Mac
+  phone_number: +375291557039 (Velcom)
+  education:
+    university: BSUIR
+    speciality: E-business economics
+    year: the third
+  hours_per_day: 4
+  pets:
+    dog: Tobi
+  sense_of_humor: Surely
+  funny_facts:
+    travel_experience: Work and Travel USA for 3 month
+    work_experience: Sales manager, DB manager
+    education_achivment: 2 times 3rd place in rebuclic competition in math :)
+    family_status: Nobody wanna to marry
+    sins: Laziness level 997
+  any_desires: Wanna grow fact and make incredible things
+  bue_bue: Waiting for your reply
